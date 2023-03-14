@@ -1,0 +1,13 @@
+C:\Programming 2\Week2\Lab2\HeroDB\bin\Debug\net6.0\heroes.json
+C:\Programming 2\Week2\Lab2\HeroDB\bin\Debug\net6.0\HeroDB.deps.json
+C:\Programming 2\Week2\Lab2\HeroDB\bin\Debug\net6.0\HeroDB.dll
+C:\Programming 2\Week2\Lab2\HeroDB\bin\Debug\net6.0\HeroDB.pdb
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\HeroDB.csproj.AssemblyReference.cache
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\HeroDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\HeroDB.AssemblyInfoInputs.cache
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\HeroDB.AssemblyInfo.cs
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\HeroDB.csproj.CoreCompileInputs.cache
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\HeroDB.dll
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\refint\HeroDB.dll
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\HeroDB.pdb
+C:\Programming 2\Week2\Lab2\HeroDB\obj\Debug\net6.0\ref\HeroDB.dll

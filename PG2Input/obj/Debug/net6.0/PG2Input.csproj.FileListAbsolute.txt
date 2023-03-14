@@ -1,0 +1,12 @@
+C:\Programming 2\Week2\Lab2\PG2Input\bin\Debug\net6.0\PG2Input.deps.json
+C:\Programming 2\Week2\Lab2\PG2Input\bin\Debug\net6.0\PG2Input.dll
+C:\Programming 2\Week2\Lab2\PG2Input\bin\Debug\net6.0\PG2Input.pdb
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\PG2Input.csproj.AssemblyReference.cache
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\PG2Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\PG2Input.AssemblyInfoInputs.cache
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\PG2Input.AssemblyInfo.cs
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\PG2Input.csproj.CoreCompileInputs.cache
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\PG2Input.dll
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\refint\PG2Input.dll
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\PG2Input.pdb
+C:\Programming 2\Week2\Lab2\PG2Input\obj\Debug\net6.0\ref\PG2Input.dll
